@@ -92,6 +92,10 @@ main {
     font-size: 15px;
 }
 
+.different span {
+    border-radius: 50%;
+}
+
 .aside-section {
     width: 310px;
 }
