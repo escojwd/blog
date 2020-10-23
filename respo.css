@@ -110,6 +110,49 @@
 
 @media screen and (max-width: 768px) {
     
+    .heading-wrapper {
+        width: 600px;
+    }
+
+    .aside-section {
+        width: 600px;
+    }
+
+    .owners-pic {
+        width: 450px;
+        margin: 0 auto;
+    }
+
+    .owner-text {
+        width: 430px;
+    }
+
+    .popular-post {
+        text-align: center;
+    }
+
+    .other-post-wrapper {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .other-post {
+        width: 200px;
+        margin: 5px;
+    }
+
+    .post-tags {
+        width: 450px;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .tags {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
 }
 
 @media screen and (max-width: 480px) {
